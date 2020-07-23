@@ -14,3 +14,4 @@
 # If the project doesn't work for you
 Sign up "https://openweathermap.org/" and give api key and put them app.vue file.
 
+*Note: The "node_modules" folder is missing in the project. So create your own project and change the files.*
